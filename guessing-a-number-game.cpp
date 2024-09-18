@@ -3,7 +3,7 @@
 //	- System will generate random number
 //	- User should make a guess, if the the guess is smaller or higher, the code will give feedback
 //Input		: a guess
-//Output		: feedback and number of attempts
+//Output	: feedback and number of attempts
 
 #include <iostream>
 #include <cstdlib>
