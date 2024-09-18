@@ -10,14 +10,17 @@ void get_c(int a, int b, int n){
 		int c = a + b;
 		a = b;
 		b = c;
+		
 		cout << c << " ";
 	}
 }
 
 int main(){
 	int a = 0, b = 1, n;
+	
 	cout << "Enter number of elements: ";
 	cin >> n;
+	
 	cout << "The sequence containing " << n << " Fibonacci numbers is\n";
 	cout << a << " ";
 	cout << b << " ";
