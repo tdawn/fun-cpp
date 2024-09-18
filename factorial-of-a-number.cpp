@@ -1,6 +1,6 @@
 //Objective	: to calculate factorial of a number
 //Input		: a number
-//Output		: factorial result of the input number
+//Output	: factorial result of the input number
 
 #include <iostream>
 using namespace std;
